@@ -5,6 +5,8 @@
 :D
 
 
+
+# Vaccinated Identifier
 - It works on any camera, just download, add the image of the person in the ImagesBasic folder, if they are vaccinated add their name in Vacinados.Text, the result is automatic in Registro.csv
 - It must be one of the first in Brazil, soon the government and big techs will do a better job
 - It is necessary to have anaconda3 installed as a virtual environment and Python 3.6 on the machine, as it is easier to download cv2, numpy, face_recognition, os, datetime libraries :D
